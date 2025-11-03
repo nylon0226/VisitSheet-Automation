@@ -1,3 +1,12 @@
+# VisitSheet-Automation
+
+![Excel VBA](https://img.shields.io/badge/-Excel%20VBA-217346?logo=microsoft-excel&logoColor=white)
+![Automation](https://img.shields.io/badge/-Automation-blue)
+![Portfolio](https://img.shields.io/badge/-Portfolio-black)
+
+訪問パターンブックからご利用者ごとの予定表を自動生成・転記するVBAスクリプトです。
+
+
 # Excel VBA｜訪問予定表 自動転記システム
 
 ## 🧩 概要
